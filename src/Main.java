@@ -1,29 +1,19 @@
 
 public class Main {
+    int x=5;
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-String john,peter;
+Main myObj = new Main();
+        System.out.println(myObj.x);
 
-   int counter =0;
-   while(counter <5){
-       Print(counter);
-       counter++;
-   }
+        OtherClass Obj = new OtherClass();
 
-   john="moses";
-   peter="peter";
-        System.out.println(john);
-
-        System.out.println(peter);
+     if(Obj.isMale){
+         System.out.println("yes");
+     }
+        System.out.println(Obj.Name);
 
     }
 
-
-
-    private static void Print(int x){
-
-        System.out.println(x +" Hello From Second method =" + (12+26));
-
-
-    }
 }
+
+
