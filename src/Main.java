@@ -1,19 +1,31 @@
-
+import root.mypack.myPackagrClass;
 public class Main {
-    int x=5;
-    public static void main(String[] args) {
-Main myObj = new Main();
-        System.out.println(myObj.x);
 
-        OtherClass Obj = new OtherClass();
 
-     if(Obj.isMale){
-         System.out.println("yes");
-     }
-        System.out.println(Obj.Name);
+  public static void main(String[] args){
+      myPackagrClass mp = new myPackagrClass(0);
+      System.out.println(mp.test);
 
-    }
+
+
+  }
 
 }
 
+ class Person{
+     private String name;
 
+
+     //Getter
+     public String getName(){
+         return name;
+     }
+
+
+     //Setter
+     public void setName(String newName){
+         this.name =newName;
+
+     }
+
+ }
