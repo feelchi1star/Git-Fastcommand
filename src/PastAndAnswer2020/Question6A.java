@@ -3,6 +3,8 @@ package PastAndAnswer2020;
 import java.util.Random;
 import java.util.stream.IntStream;
 
+// How to Generate 12 Digits Recharge Card Pin
+
 public class Question6A {
     public static void main(String[] args) {
 
@@ -25,6 +27,6 @@ public class Question6A {
         System.out.println(RechargePin2);
 
 
-        
+
     }
 }

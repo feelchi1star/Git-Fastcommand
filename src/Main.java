@@ -1,31 +1,14 @@
-import root.mypack.myPackagrClass;
-public class Main {
+
+import java.time.LocalDate;
+class Animal{
+    public static  void main(String [] args){
+        animalSound();
+
+    }
+
+    public static void animalSound(){
 
 
-  public static void main(String[] args){
-      myPackagrClass mp = new myPackagrClass(0);
-      System.out.println(mp.test);
-
-
-
-  }
-
+        System.out.println("Hi");
+    }
 }
-
- class Person{
-     private String name;
-
-
-     //Getter
-     public String getName(){
-         return name;
-     }
-
-
-     //Setter
-     public void setName(String newName){
-         this.name =newName;
-
-     }
-
- }
