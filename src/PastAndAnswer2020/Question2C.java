@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Question2C {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int $numOfExams = 0;
         double Scores = 0; // initialize the Score Variable using the double data type
         while ($numOfExams < 10) {
@@ -30,5 +31,9 @@ public class Question2C {
 
         System.out.println("Your Average Score is: " + AverageScore);
 
+        
+
     }
+
+
 }

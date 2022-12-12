@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d14cd32-f464-4e39-8e52-e96542c33685" name="Changes" comment="Dowhile loops Class Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PastAndAnswer2020/Question1C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PastAndAnswer2020/Question1C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PastAndAnswer2020/Question2C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PastAndAnswer2020/Question2C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question2C">
-    <configuration name="Question2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PastAndAnswer2020.Question2A" />
+  <component name="RunManager" selected="Application.ArrayLists">
+    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.ArrayLists" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PastAndAnswer2020.*" />
+          <option name="PATTERN" value="AdvanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PastAndAnswer2020.Question2B" />
+    <configuration name="DateClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.DateClass" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PastAndAnswer2020.*" />
+          <option name="PATTERN" value="AdvanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question2C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PastAndAnswer2020.Question2C" />
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.Encapsulation" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PastAndAnswer2020.*" />
+          <option name="PATTERN" value="AdvanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question6B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PastAndAnswer2020.Question6B" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.Recursion" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PastAndAnswer2020.*" />
+          <option name="PATTERN" value="AdvanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question6C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PastAndAnswer2020.Question6C" />
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.TypeCasting" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PastAndAnswer2020.*" />
+          <option name="PATTERN" value="AdvanceJava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question2C" />
-        <item itemvalue="Application.Question6C" />
-        <item itemvalue="Application.Question6B" />
-        <item itemvalue="Application.Question2B" />
-        <item itemvalue="Application.Question2A" />
+        <item itemvalue="Application.ArrayLists" />
+        <item itemvalue="Application.DateClass" />
+        <item itemvalue="Application.Encapsulation" />
+        <item itemvalue="Application.Recursion" />
+        <item itemvalue="Application.TypeCasting" />
       </list>
     </recent_temporary>
   </component>
