@@ -38,13 +38,13 @@ public class Question1C {
 
 
 
-
 /* Note:
-- Next Line means in the next instance where people or the variable is used.
+//- Next Line means in the next instance where people or the variable is used.
 
 **YOU CAN UNCOMMENT THE DISPLAY STATEMENTS TO SEE THE RESULTS IN THE CONSOLE **
 * */
-
     }
 }
+
+
 // Thank you!!!
