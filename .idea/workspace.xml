@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d14cd32-f464-4e39-8e52-e96542c33685" name="Changes" comment="Dowhile loops Class Created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PastAndAnswer2020/Question2C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PastAndAnswer2020/Question2C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,9 +47,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayLists">
-    <configuration name="ArrayLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceJava.ArrayLists" />
+  <component name="RunManager" selected="Application.JavaFiles">
+    <configuration name="ExceptionError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.ExceptionError" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceJava.DateClass" />
+    <configuration name="JavaFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.JavaFiles" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceJava.Encapsulation" />
+    <configuration name="JavaThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.JavaThread" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -87,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceJava.Recursion" />
+    <configuration name="LambdaExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.LambdaExp" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -100,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AdvanceJava.TypeCasting" />
+    <configuration name="RegularExpression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvanceJava.RegularExpression" />
       <module name="LearningJava" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayLists" />
-        <item itemvalue="Application.DateClass" />
-        <item itemvalue="Application.Encapsulation" />
-        <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.TypeCasting" />
+        <item itemvalue="Application.JavaFiles" />
+        <item itemvalue="Application.LambdaExp" />
+        <item itemvalue="Application.JavaThread" />
+        <item itemvalue="Application.RegularExpression" />
+        <item itemvalue="Application.ExceptionError" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669325126760</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Dowhile loops Class Created">
+      <created>1670880093823</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670880093823</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,6 +170,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dowhile loops Class Created" />
     <option name="LAST_COMMIT_MESSAGE" value="Dowhile loops Class Created" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LearningJava$Animal.ic" NAME="Animal Coverage Results" MODIFIED="1670444833835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
